@@ -1,6 +1,14 @@
 # Disk Usage Analyzer
 This project is a Disk Usage Analyzer tool developed using Python. It allows users to select a directory and analyze the disk usage of files within that directory, displaying the results in a scatter plot showing the size of the top 100 largest files.
 
+## Group Members
+- Roll No#R009: Noreen Fatima
+- Roll No#9RE: Kashmala Jamil
+- Roll No#R010: Kashaf Zainab
+
+## Program
+BSIT 4th Regular
+
 ## How to Run
 Follow these step-by-step instructions to run the Disk Usage Analyzer:
 
